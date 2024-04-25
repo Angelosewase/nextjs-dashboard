@@ -2,7 +2,7 @@ import React from 'react'
 import { Metadata } from 'next';
  
 export const metadata: Metadata = {
-  title: 'fcustomers page',
+  title: 'customers page',
 };
 
 const Page = () => {
